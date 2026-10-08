@@ -1,3 +1,4 @@
+//quetion ppr 2 que 1 
 #include<iostream>
 #include<vector>
 using namespace std;
