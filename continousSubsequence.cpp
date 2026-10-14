@@ -1,4 +1,4 @@
-// Question paper 3 que 1  
+// Question paper 3 que1
 #include <iostream>
 #include <vector>
 using namespace std;
