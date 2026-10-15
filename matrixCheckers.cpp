@@ -1,3 +1,4 @@
+// finds adjecent 1s 
 #include <bits/stdc++.h>
 using namespace std;
 
